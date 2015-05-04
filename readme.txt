@@ -12,9 +12,9 @@ Advanced WP Hide Referer is a sample Plugin to Hide your referer on all external
 == Description ==
 
 Hide Referer for WordPress removes the referer (referrer) from all external links on your blog. It does this by converting all outgoing 
-links on your blog using the unrefer.com service and effectively hides your site as origin of the referred link.
+links on your blog using the href.li service and effectively hides your site as origin of the referred link.
 
-For example, Hide Referer for WordPress will convert an external link to wordpress.com, to [https://href.li/?http://wordpress.org](https://href.li/?http://wordpress.org).
+For example, Hide Referer for WordPress will convert an external link to wordpress.org, to [https://href.li/?http://wordpress.org](https://href.li/?http://wordpress.org).
 
 == Installation ==
 
@@ -26,7 +26,7 @@ For example, Hide Referer for WordPress will convert an external link to wordpre
 
 = Is this free? =
 
-Yes, this plugin and the unrefer.com service are free to use.
+Yes, this plugin and the href.li service are free to use.
 
 == Changelog ==
 
